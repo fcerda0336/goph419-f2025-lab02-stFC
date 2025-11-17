@@ -1,0 +1,9 @@
+numpy>=1.20
+scipy>=1.6
+matplotlib>=3.4
+Explanation:
+    numpy used - for array operations, linear algebra, and general math.
+
+    scipy - used for UnivariateSpline in the spline interpolation.
+
+    matplotlib - used to plot your interpolated data and save figures.
